@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(40, 226, 226);
+    color: rgb(16, 25, 25);
+}
+header{
+    position: center;
+    padding: 20px;
+    background-color: hsl(320, 5%, 26%);
+    color: aqua;
+}
+h1{
+ position: centerg;
+}
+img{
+   
+    margin: 10px;
+    padding:20px;
+    border: solid rgb(24, 21, 21) 3px;
+    box-shadow: 10px 10px 10px    #3118ec;
+
+}
+details{ 
+    font-size: 25px;
+    display: inline;
+    align-items: center;
+    
+}
